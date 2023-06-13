@@ -1,0 +1,15 @@
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\madlibs.csproj.AssemblyReference.cache
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\madlibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\madlibs.AssemblyInfoInputs.cache
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\madlibs.AssemblyInfo.cs
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\madlibs.csproj.CoreCompileInputs.cache
+C:\Users\druoc\Documents\C-Sharp\madlibs\bin\Debug\net7.0\madlibs.exe
+C:\Users\druoc\Documents\C-Sharp\madlibs\bin\Debug\net7.0\madlibs.deps.json
+C:\Users\druoc\Documents\C-Sharp\madlibs\bin\Debug\net7.0\madlibs.runtimeconfig.json
+C:\Users\druoc\Documents\C-Sharp\madlibs\bin\Debug\net7.0\madlibs.dll
+C:\Users\druoc\Documents\C-Sharp\madlibs\bin\Debug\net7.0\madlibs.pdb
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\madlibs.dll
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\refint\madlibs.dll
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\madlibs.pdb
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\madlibs.genruntimeconfig.cache
+C:\Users\druoc\Documents\C-Sharp\madlibs\obj\Debug\net7.0\ref\madlibs.dll
