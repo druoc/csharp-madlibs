@@ -1,8 +1,8 @@
-#MADLIBS
+# MADLIBS
 
 A basic Madlibs command line game built using C#.
 
-##HOW TO PLAY/INSTALLATION
+## HOW TO PLAY/INSTALLATION
 
 1. Clone this repo to your local environment
 2. cd into the project folder
